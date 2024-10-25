@@ -1,0 +1,3 @@
+function longestRepeatingCharReplacement(s, k) {
+
+}
